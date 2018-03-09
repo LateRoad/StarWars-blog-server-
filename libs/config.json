@@ -1,6 +1,6 @@
 {
     "port": 3333,
     "db": {
-        "uri": "mongodb://localhost/mobile"
+        "uri": "mongodb://localhost/blog"
     }
 }

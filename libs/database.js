@@ -2,7 +2,7 @@ var mongoose = require('mongoose');
 var config = require('./config');
 var log = require('./log')(module);
 
-mongoose.connect("mongodb://localhost/mobile");
+mongoose.connect("mongodb://localhost/blog");
 
 var db = mongoose.connection;
 
